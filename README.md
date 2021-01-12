@@ -1,3 +1,3 @@
-Project: SimMeR
+Project: Arduino Rover Code
 
-For information on this software, please see the .pdf file in the documaentation folder
+Tthe Main.m and Rover_Main.m codes should be run together in separate MATLAB windows
