@@ -59,6 +59,7 @@ k = 0;
 %initalization of the world
 dim1 = 32; dim2 = 16; 
 locationindex = reshape(1:dim1*dim2,dim1,dim2)'; 
+
 n = numel(locationindex);
 rand('twister',5489);
 bw = reshape(randi([0 1],n,1),dim2,dim1); %0 = black, 1 = white
